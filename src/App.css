@@ -21,16 +21,16 @@
     background-position: center;
     background-size:cover;
     background-repeat:no-repeat;
-    color: #fff;
+    color: #5e7eb5;
     font-size: 100px;
   }
   
   .game {
-    background-image:url('C:\Users\User\Documents\CodeBreaker Webapp\codebreaker\public\images\dark.jpg') ;
+    background-image:url('C:\Users\User\Documents\CodeBreaker Webapp\codebreaker\public\images\lake.png') ;
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
-    color: #fff;
+    color: #1a5467;
     font-size: 100px;
   }
   
