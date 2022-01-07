@@ -24,6 +24,11 @@
     color: #5e7eb5;
     font-size: 100px;
   }
+
+  .p-About{
+    font-size: 100px;
+    text-align: center;
+  }
   
   .game {
     background-image:url('C:\Users\User\Documents\CodeBreaker Webapp\codebreaker\public\images\lake.png') ;
