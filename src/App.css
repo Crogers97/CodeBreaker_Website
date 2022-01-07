@@ -25,10 +25,6 @@
     font-size: 100px;
   }
 
-  .p-About{
-    font-size: 100px;
-    text-align: center;
-  }
   
   .game {
     background-image:url('C:\Users\User\Documents\CodeBreaker Webapp\codebreaker\public\images\lake.png') ;
@@ -40,10 +36,15 @@
   }
   
   .download {
-    
+    background-image: url('C:\Users\User\Documents\CodeBreaker Webapp\codebreaker\public\images\hills.png');
     background-position: center;
+    text-align: center;
+    text-decoration: none;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
+    color: #275d9e;
+    font-size: 80px;
   }
+
+  
+  
